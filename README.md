@@ -1,5 +1,5 @@
 # Magic: The Gathering - Thirst For Battle
-#### Yet Another Solo variant
+#### Yet Another Solo Variant
 #
 
 ##### Background:
