@@ -4,7 +4,7 @@
 
 ##### Background:
 
-This solo variant was designed to enable player to play Magicg: The Gathering alone in the way it resembles two-player mode as closely as possible. The following rules are there to make sure player can not cheat, but ultimately the imaginary opponent is dumb and follows the rules despite possibly being more convenient for you.
+This solo variant was designed to enable player to play Magic: The Gathering alone in the way it resembles two-player mode as closely as possible. The following rules are there to make sure player can not cheat, but ultimately the imaginary opponent is dumb and follows the rules despite possibly being more convenient for you.
 
 ##### Basics:
 
@@ -14,7 +14,7 @@ This solo variant was designed to enable player to play Magicg: The Gathering al
 
 - For your opponent, if there is no 1 land and 1 mana card present OR 2 lands and at least one 2 mana card, put those cards back, re-shuffle and draw another 7 cards and repeat as long as one of these conditions pass. No regular mulligan rules are enforced for the opponent's first hand re-shuffles.
 
-- If you don't like your hand, regular mulligan rules ARE in effect.
+- If you don't like your hand, regular mulligan rules ARE in effect for you only.
 
 - Each turn is played with regular Magic The Gathering rules, but for your imaginary opponent, play his deck as described below.
 
